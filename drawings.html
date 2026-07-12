@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Original drawings by Singapore artist Ieo Gek Ching.">
+<title>Original Drawings — Ieo Gek Ching</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<nav class="site-nav">
+  <a class="brand" href="index.html">IEO GEK CHING</a>
+  <div class="nav-links"><a href="index.html">Home</a><a href="drawings.html">Original Drawings</a><a href="paintings.html">Paintings</a><a href="exhibitions.html">Exhibitions</a><a href="profile.html">Statement & CV</a><a href="index.html#contact">Contact</a></div>
+</nav>
+
+<header class="archive-header">
+  <div class="inner">
+    <div class="archive-heading">
+      <div class="archive-kicker">Portfolio Archive</div>
+      <h1>Original Drawings</h1>
+      <p>A continuing body of hybrid animal drawings exploring biodiversity, ecology and the interconnectedness between species.</p>
+    </div>
+    <div class="archive-years">2011 – Present</div>
+  </div>
+</header>
+
+<div class="archive-toolbar">
+  <div class="toolbar-inner">
+    <button class="filter-btn active" data-filter="all">All</button>
+    <button class="filter-btn" data-filter="Available">Available</button>
+    <button class="filter-btn" data-filter="SOLD">Sold</button>
+    <button class="filter-btn" data-filter="Commission Work">Commission Work</button>
+    <button class="filter-btn" data-filter="Not For Sale">Not For Sale</button>
+    <div class="showing" id="showing">Showing all works</div>
+  </div>
+</div>
+
+<main class="archive-wall"><div class="art-grid" id="art-grid"></div></main>
+
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <div class="lightbox-viewer">
+    <img id="large-image" src="" alt="">
+    <button class="close" aria-label="Close">×</button>
+    <button class="prev" aria-label="Previous">←</button>
+    <button class="next" aria-label="Next">→</button>
+  </div>
+  <aside class="lightbox-info">
+    <div class="archive-kicker">Original Drawing</div>
+    <h2 id="art-title"></h2>
+    <dl class="art-info-list" id="art-info"></dl>
+  </aside>
+</div>
+
+<footer>© Ieo Gek Ching</footer>
+<script src="js/drawings.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+painting: IMG_2987.jpg
+painting: IMG_9975.jpg
+painting: 12.jpg
+painting: IMG_0933.jpg
+painting: IMG_5446.jpg
+painting: 4.jpg
+painting: IMG_9979.jpg
+painting: 3.jpg
+painting: 1.jpg
+exhibition: IMG_0969.jpg
+exhibition: IMG_4851.jpg
+exhibition: IMG_5756.jpg
+exhibition: IMG_4852.jpg
+exhibition: IMG_9393.jpg
+exhibition: IMG_0171.jpg
+exhibition: BIG Cat_WIP 2025-2026.jpg
+exhibition: IMG_1436.jpg
+exhibition: IMG_5731.jpg
+exhibition: IMG_5729.jpg
+exhibition: IMG_8551.jpg
+exhibition: IMG_0579.jpg
+exhibition: IMG_9170.jpg
+exhibition: IMG_9771.jpg
+exhibition: IMG_5758.jpg
